@@ -1,0 +1,17 @@
+/*
+Theme Name: Shvaiko Child
+Theme URI: http://aisconverse.lodyr.com/
+Author: Stanislav Shvaiko
+Author URI: http://lodyr.com/
+Description: WP Developer Test Theme
+Version: 1.0
+Template: shvaiko
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: wp, test, custom template, aisconverse
+Text Domain: aisconverse
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+@import url("../shvaiko/style.css");
